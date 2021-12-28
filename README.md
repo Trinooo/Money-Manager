@@ -1,5 +1,5 @@
 # Money-Manager
 
-## What This Is **bold text**
+## *What This Is* 
 
 This 
